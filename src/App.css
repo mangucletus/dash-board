@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container{
+  display: flex;
+}
+.mainContent{
+  flex: 4;
+  padding: 1rem;
+  color: white;
+  background-color: rgb(37, 37, 59);
+}

@@ -1,0 +1,29 @@
+
+.navbar{
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    gap: 2rem;
+    padding: 2rem;
+
+
+}
+.brm-logo{
+    color: white;
+    font-size: 3rem;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+.navigationLink{
+    margin: 0 10px;
+    padding: 0.5rem 0.5rem;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: transparent;
+    color: white;
+    border: none;
+    text-decoration: none;
+}
